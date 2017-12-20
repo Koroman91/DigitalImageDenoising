@@ -1,0 +1,15 @@
+C:\Users\Stefan-Ivan\documents\visual studio 2015\Projects\Proba2\Proba2\bin\Debug\Proba2.exe.config
+C:\Users\Stefan-Ivan\documents\visual studio 2015\Projects\Proba2\Proba2\bin\Debug\Proba2.exe
+C:\Users\Stefan-Ivan\documents\visual studio 2015\Projects\Proba2\Proba2\bin\Debug\Proba2.pdb
+C:\Users\Stefan-Ivan\documents\visual studio 2015\Projects\Proba2\Proba2\obj\Debug\DigitalProcessing.csprojResolveAssemblyReference.cache
+C:\Users\Stefan-Ivan\documents\visual studio 2015\Projects\Proba2\Proba2\obj\Debug\Proba2.Form1.resources
+C:\Users\Stefan-Ivan\documents\visual studio 2015\Projects\Proba2\Proba2\obj\Debug\Proba2.Properties.Resources.resources
+C:\Users\Stefan-Ivan\documents\visual studio 2015\Projects\Proba2\Proba2\obj\Debug\DigitalProcessing.csproj.GenerateResource.Cache
+C:\Users\Stefan-Ivan\documents\visual studio 2015\Projects\Proba2\Proba2\obj\Debug\Proba2.exe
+C:\Users\Stefan-Ivan\documents\visual studio 2015\Projects\Proba2\Proba2\obj\Debug\Proba2.pdb
+C:\Users\Stefan-Ivan\documents\visual studio 2015\Projects\Proba2\Proba2\bin\Debug\AForge.dll
+C:\Users\Stefan-Ivan\documents\visual studio 2015\Projects\Proba2\Proba2\bin\Debug\AForge.Imaging.dll
+C:\Users\Stefan-Ivan\documents\visual studio 2015\Projects\Proba2\Proba2\bin\Debug\AForge.Math.dll
+C:\Users\Stefan-Ivan\documents\visual studio 2015\Projects\Proba2\Proba2\bin\Debug\AForge.xml
+C:\Users\Stefan-Ivan\documents\visual studio 2015\Projects\Proba2\Proba2\bin\Debug\AForge.Imaging.xml
+C:\Users\Stefan-Ivan\documents\visual studio 2015\Projects\Proba2\Proba2\bin\Debug\AForge.Math.xml

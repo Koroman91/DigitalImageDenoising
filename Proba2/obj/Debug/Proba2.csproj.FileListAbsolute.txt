@@ -1,0 +1,9 @@
+c:\users\stefan-ivan\documents\visual studio 2015\Projects\Proba2\Proba2\bin\Debug\Proba2.exe.config
+c:\users\stefan-ivan\documents\visual studio 2015\Projects\Proba2\Proba2\bin\Debug\Proba2.exe
+c:\users\stefan-ivan\documents\visual studio 2015\Projects\Proba2\Proba2\bin\Debug\Proba2.pdb
+c:\users\stefan-ivan\documents\visual studio 2015\Projects\Proba2\Proba2\obj\Debug\Proba2.csprojResolveAssemblyReference.cache
+c:\users\stefan-ivan\documents\visual studio 2015\Projects\Proba2\Proba2\obj\Debug\Proba2.Form1.resources
+c:\users\stefan-ivan\documents\visual studio 2015\Projects\Proba2\Proba2\obj\Debug\Proba2.Properties.Resources.resources
+c:\users\stefan-ivan\documents\visual studio 2015\Projects\Proba2\Proba2\obj\Debug\Proba2.csproj.GenerateResource.Cache
+c:\users\stefan-ivan\documents\visual studio 2015\Projects\Proba2\Proba2\obj\Debug\Proba2.exe
+c:\users\stefan-ivan\documents\visual studio 2015\Projects\Proba2\Proba2\obj\Debug\Proba2.pdb
